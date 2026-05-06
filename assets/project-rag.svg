@@ -1,0 +1,29 @@
+<svg width="1200" height="750" viewBox="0 0 1200 750" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="750" rx="36" fill="#08111F"/>
+  <rect x="48" y="48" width="1104" height="654" rx="28" fill="#0E1C32" stroke="#1D365A"/>
+  <rect x="84" y="96" width="440" height="120" rx="20" fill="#132744"/>
+  <rect x="84" y="252" width="440" height="314" rx="20" fill="#101F36"/>
+  <rect x="560" y="96" width="556" height="470" rx="20" fill="#101F36"/>
+  <rect x="84" y="598" width="1032" height="52" rx="16" fill="#0B1628"/>
+  <circle cx="146" cy="156" r="28" fill="#4FD1C5"/>
+  <rect x="196" y="136" width="252" height="18" rx="9" fill="#DCEBFF"/>
+  <rect x="196" y="170" width="188" height="14" rx="7" fill="#7992B8"/>
+  <rect x="118" y="292" width="164" height="32" rx="10" fill="#173353"/>
+  <rect x="118" y="346" width="352" height="14" rx="7" fill="#7B92B7"/>
+  <rect x="118" y="378" width="296" height="14" rx="7" fill="#7B92B7"/>
+  <rect x="118" y="410" width="316" height="14" rx="7" fill="#7B92B7"/>
+  <rect x="118" y="462" width="138" height="40" rx="12" fill="#4FD1C5"/>
+  <rect x="594" y="132" width="488" height="226" rx="18" fill="#132744"/>
+  <path d="M634 316C694 248 754 226 814 250C874 274 934 242 994 192" stroke="#4FD1C5" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="634" cy="316" r="10" fill="#4FD1C5"/>
+  <circle cx="814" cy="250" r="10" fill="#64A4FF"/>
+  <circle cx="994" cy="192" r="10" fill="#F6AD55"/>
+  <rect x="594" y="390" width="216" height="136" rx="18" fill="#132744"/>
+  <rect x="844" y="390" width="238" height="136" rx="18" fill="#132744"/>
+  <rect x="626" y="420" width="114" height="14" rx="7" fill="#DCEBFF"/>
+  <rect x="626" y="452" width="152" height="12" rx="6" fill="#7B92B7"/>
+  <rect x="626" y="482" width="130" height="12" rx="6" fill="#7B92B7"/>
+  <rect x="876" y="420" width="132" height="14" rx="7" fill="#DCEBFF"/>
+  <rect x="876" y="452" width="172" height="12" rx="6" fill="#7B92B7"/>
+  <rect x="876" y="482" width="144" height="12" rx="6" fill="#7B92B7"/>
+</svg>
